@@ -5,56 +5,12 @@
 <h3 align="left">Languages and Tools I’m exploring:</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
 
-  <span style="background:#f16529; color:white; padding:6px 10px; border-radius:8px; font-size:14px;">
-    HTML5
-  </span>
-
-  <span style="background:#2965f1; color:white; padding:6px 10px; border-radius:8px; font-size:14px;">
-    CSS3
-  </span>
-
-  <span style="background:#38bdf8; color:white; padding:6px 10px; border-radius:8px; font-size:14px;">
-    Tailwind CSS
-  </span>
-
-  <span style="background:#f0db4f; color:black; padding:6px 10px; border-radius:8px; font-size:14px;">
-    JavaScript
-  </span>
-
-  <span style="background:#61dafb; color:black; padding:6px 10px; border-radius:8px; font-size:14px;">
-    React
-  </span>
-
-  <span style="background:#3776ab; color:white; padding:6px 10px; border-radius:8px; font-size:14px;">
-    C#
-  </span>
-
-  <span style="background:#b07219; color:white; padding:6px 10px; border-radius:8px; font-size:14px;">
-    Java
-  </span>
-
-  <span style="background:#00758f; color:white; padding:6px 10px; border-radius:8px; font-size:14px;">
-    MySQL
-  </span>
-
-  <span style="background:#003b57; color:white; padding:6px 10px; border-radius:8px; font-size:14px;">
-    SQLite
-  </span>
-
-  <span style="background:#5586a4; color:white; padding:6px 10px; border-radius:8px; font-size:14px;">
-    PHP
-  </span>
-
-  <span style="background:#478cbf; color:white; padding:6px 10px; border-radius:8px; font-size:14px;">
-    Godot Engine
-  </span>
-
-  <span style="background:#ea7600; color:white; padding:6px 10px; border-radius:8px; font-size:14px;">
-    Blender
-  </span>
-
-  <span style="background:#31a8ff; color:white; padding:6px 10px; border-radius:8px; font-size:14px;">
-    Photoshop
-  </span>
+(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 </div>
