@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Neil Agnes</h2>
+<h2 align="left">hi, i'm neil agnes</h2>
 <p>💻 Computer Science Student at Cavite State University - Silang Campus</p>
 
 <h3 align="left">Languages and Tools:</h3>
