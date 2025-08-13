@@ -2,7 +2,7 @@
 <p align="center">com sci student at cvsu</p>
 <p align="center">just winging it</p>
 
-<h3 align="center">Languages & Tools</h3>
+<h3 align="center">stuffs i’ve stumbled into (and i’m still figuring these out)</h3>
 
 <p align="center">
   <!-- Row 1 -->
