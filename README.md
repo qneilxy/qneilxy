@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h2 align="left">Hi 👋, I'm Katlyn Joy</h2>
+<h2 align="left">Hi 👋, I'm Neil Agnes</h2>
 <p>💻 Computer Science Student at Cavite State University - Silang Campus</p>
 
 <h3 align="left">Languages and Tools:</h3>
